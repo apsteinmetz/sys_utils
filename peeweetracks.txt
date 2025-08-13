@@ -1,0 +1,46 @@
+1 x 1	Ice Cream Soup	1986-09-13	  
+1 x 2	Luau for Two	1986-09-20	  
+1 x 3	Rainy Day	1986-09-27	  
+1 x 4	Now You See Me, Now You Don't	1986-10-04	  
+1 x 5	Just Another Day	1986-10-11	  
+1 x 6	Beauty Makeover	1986-10-18	  
+1 x 7	Restaurant	1986-10-25	  
+1 x 8	Ants in Your Pants	1986-11-01	  
+1 x 9	Monster In The Playhouse	1986-11-08	  
+1 x 10	The Cowboy and the Cowntess	1986-11-15	  
+1 x 11	Stolen Apples	1986-11-22	  
+1 x 12	The Gang's All Here	1986-11-29	  
+1 x 13	Party	1986-12-06	 
+2 x 1	Open House	1987-09-19	  
+2 x 2	Puppy In The Playhouse	1987-09-26	  
+2 x 3	Store	1987-10-03	  
+2 x 4	Pee-Wee Catches A Cold	1987-10-10	  
+2 x 5	Why Wasn't I Invited?	1987-10-17	  
+2 x 6	Tons Of Fun	1987-10-24	 
+2 x 7	School	1987-10-31	 
+2 x 8	Spring	1987-11-07	  
+2 x 9	Playhouse In Outer Space	1987-11-14	  
+2 x 10	Pajama Party	1987-11-21	  
+3 x 1	Reba Eats and Pterri Runs	1988-09-17	  
+3 x 2	To Tell the Tooth	1988-09-24	 
+Special	Pee-Wee's Playhouse Christmas Special	1988-12-21	 
+4 x 1	Dr. Pee-wee and the Del Rubios	1989-09-16	 
+4 x 2	Fire In the Playhouse	1989-09-23	 
+4 x 3	Love That Story	1989-09-30	 
+4 x 4	Sick, Did Somebody Say Sick?	1989-10-07	  
+4 x 5	Miss Yvonne's Visit	1989-10-14	  
+4 x 6	Rebarella	1989-10-21	  
+4 x 7	Heat Wave	1989-10-28	  
+4 x 8	Chairry Tee Drive	1989-11-04	 
+4 x 9	Let's Play Office	1989-11-11	 
+4 x 10	I Remember Curtis	1989-11-18	 
+5 x 1	Conky's Breakdown	1990-09-15	 
+5 x 2	Mystery	1990-09-22	 
+5 x 3	Front Page Pee-wee	1990-09-29	 
+5 x 4	Tango Time	1990-10-06	 
+5 x 5	Playhouse Day	1990-10-13	 
+5 x 6	Accidental Playhouse	1990-10-20	  
+5 x 7	Fun, Fun, Fun	1990-10-27	  
+5 x 8	Camping Out	1990-11-03	  
+5 x 9	Something To Do	1990-11-10	  
+5 x 10	Playhouse For Sale	1990-11-17
